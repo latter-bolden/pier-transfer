@@ -1,5 +1,13 @@
 # Pier Transfer Protocol
 
+## Update
+The initiative this was developed for has stalled and it's unlikely I'll be doing anything with the document for the foreseeable future. If you're interested in something like this, feel free to use/adapt/fork to your heart's content or message me on network if you wanna chat!
+
+
+Yours truly,
+
+`~latter-bolden`
+
 ## Overview
 This protocol is designed to facilitate the transfer of an Urbit pier from one system to another over the network. It should support the following use cases:
 - Transfering from one hosting provider to another
